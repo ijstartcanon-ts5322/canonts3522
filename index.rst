@@ -3,7 +3,7 @@ Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
 ##################
 
 .. meta::
-   :msvalidate.01: EC1CC2EBFA11DD5C3D82B1E823DE7278
+   :msvalidate.01: 
 
 .. image:: blank.png
       :width: 350px
@@ -22,136 +22,87 @@ Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
       :align: center
       :height: 100px
 
-**********
-https://ij.start.canon TS3522
-**********
-Canon IJ printers are among the most popular printers worldwide. While many printers are available, Canon IJ stands out for its quality and versatility. Canon offers various models, including printer, scanner, and fax functionalities — making them all-in-one solutions.
+Canon TS3522 Wireless Printer Setup and Guide
+=============================================
 
-In this guide, we will focus on the Canon IJ Pixma TS3522 model. You'll learn about its features, how to set it up, and how to connect it with your devices.
+If you're looking for a reliable all-in-one printer for home or small office use, the **Canon TS3522** is a solid choice. It offers wireless connectivity, simple setup, and quality printing — all without breaking the bank.
 
-**********
-What are the features and specifications of ij.start.canon ts3522?
-**********
-The Canon TS3522 is an all-in-one, wireless printer. Here are its key features:
+This guide provides a detailed overview of the Canon TS3522 features, how to set it up, and answers to common user questions. The information is for educational purposes and not affiliated with Canon Inc.
 
-- Built-in wireless connection.
-- Print from anywhere in your home or office.
-- Paper tray with a unique design for easy printing.
-- Borderless photo printing with sizes like 5x7 and 5x5 inches.
-- Hybrid ink system for sharp black prints.
-- Compact and easy to fit anywhere.
-- Wi-Fi connectivity without needing extra devices.
-- Settings can be managed on the printer’s LCD screen.
+Key Features
+------------
 
-**********
-How to set up the ij.start.canon ts3522?
-**********
+- **Print, Copy & Scan** – All-in-one function for daily use
+- **Wireless Connectivity** – Supports Wi-Fi printing from smartphones, tablets, and laptops
+- **Easy Setup** – Simplified installation using the Canon PRINT app
+- **Energy Efficient** – Designed to consume low power
+- **Paper Flexibility** – Works with standard and photo paper
+- **Photo Printing** – Supports borderless photo output
 
-Follow these steps:
+Setup Guide: Canon TS3522 Printer
+---------------------------------
 
-1. Unbox the printer and remove the orange safety tape.
-2. Place the printer in a safe, flat area.
-3. Plug in the power cable.
-4. Turn the printer on using the power button.
-5. Install the included cartridges.
-6. Load A4-size paper into the tray.
+1. **Unboxing the Printer**  
+   Remove packaging and plug in the device.
 
-**********
-How to connect ij.start.canon ts3522 with PC or Smartphone?
-**********
+2. **Install Ink Cartridges**  
+   Open the cartridge access area and insert both black and color ink cartridges.
 
-To connect with a **computer**:
+3. **Load Paper**  
+   Adjust the rear tray and insert paper (e.g., A4, Letter, 4x6").
 
-1. Download the setup from `ij.start.canon <https://ij.start.canon>`_.
-2. Enter your model number (TS3522) and click download.
-3. Install the software and open it.
-4. Click "Start Setup".
-5. Connect the printer and PC to the same Wi-Fi.
-6. The software will detect your printer.
-7. Select the printer name, enter your Wi-Fi credentials, and connect.
+4. **Connect to Wi-Fi**  
+   - Press and hold the Wireless button on the printer until the LED blinks.
+   - Use the Canon PRINT Inkjet/SELPHY app on your mobile device to complete the Wi-Fi setup.
 
-To connect with a **smartphone**:
+5. **Install Drivers**  
+   - Visit the official Canon support site.
+   - Search for "Canon TS3522 driver" and download the compatible version for your system.
 
-1. Download the Canon Print app from the Play Store or App Store.
-2. Open the app and search for nearby printers.
-3. Select the printer and connect via Wi-Fi.
-4. Start printing from your phone.
+6. **Test Print**  
+   Once setup is complete, print a sample document to confirm functionality.
 
-**********
-How to download ij.start.canon ts3522 software on laptop/computer?
-**********
+Compatibility
+-------------
 
-1. Open your browser on your laptop/computer.
-2. Visit `ij.start.canon <https://ij.start.canon>`_.
-3. Click **Start** → **Setting up a new printer**.
-4. If already installed, choose **Connecting to a computer or smartphone**.
-5. Follow on-screen instructions.
-6. Click the download button and install the software.
+The Canon TS3522 is compatible with the following operating systems:
 
-**********
-How to install ij.start.canon ts3522 software?
-**********
+- Windows 10 / 11
+- macOS (Monterey and later)
+- Android (via Canon app)
+- iOS (AirPrint support)
 
-1. Double-click the downloaded setup file.
-2. Click **Yes** when prompted.
-3. Setup will begin automatically.
-4. Once installed, click **Start Setup**.
-5. Complete the connection to your printer.
+Box Contents
+------------
 
-**********
-How to connect ij.start.canon ts3522 wirelessly with a computer?
-**********
+- Canon TS3522 Printer
+- Black Ink Cartridge
+- Color Ink Cartridge
+- Power Cord
+- Setup Manual
+- Installation CD (for legacy systems)
 
-1. Open the Canon software and click **Start Setup**.
-2. Turn on your printer.
-3. Click **Next** → wait while drivers are installed.
-4. Click **Yes** to accept the license agreement.
-5. Choose **Wi-Fi Connection** → **Next**.
-6. The printer will be detected.
-7. Select your printer and complete the connection.
+Helpful Tips
+------------
 
-**********
-How to download and install ij.start.canon ts3522 on Apple devices?
-**********
+- **Wi-Fi Issues** – Restart your router and repeat wireless setup steps via app.
+- **Paper Jams** – Follow the device screen instructions to clear jams safely.
+- **Save Ink** – Enable 'Draft Mode' in print settings for everyday documents.
 
-1. Open the App Store.
-2. Search for **IJ Start Canon Printer** or `ij.start.canon <https://ij.start.canon>`_.
-3. Download and install the app.
-4. Open the app and connect to the printer using Wi-Fi.
+SEO-Safe Keywords (Naturally Integrated)
+----------------------------------------
 
-**********
-How to install ij.start.canon ts3522 app on Smartphone?
-**********
+- Canon TS3522 printer wireless setup  
+- How to connect Canon TS3522 to Wi-Fi  
+- Canon TS3522 installation guide  
+- Canon wireless inkjet printer for home  
+- Budget-friendly all-in-one printer
 
-1. Open Google Play Store.
-2. Search for **Canon Print**.
-3. Click **Install**.
-4. Launch the app and connect to your printer via Wi-Fi.
+Conclusion
+----------
 
-**********
-How to connect ij.start.canon ts3522 wirelessly with Smartphone?
-**********
+The **Canon TS3522 wireless printer** offers a cost-effective, space-saving solution for printing, scanning, and copying at home. With a simple interface and app-guided setup, it’s ideal for students, remote workers, and families.
 
-1. Open the Canon app and tap **Start Setup**.
-2. Turn on the printer.
-3. Allow installation of drivers.
-4. Agree to the license terms.
-5. Choose **Wi-Fi Connection**.
-6. Select your printer and connect.
-**********
-FAQs
-**********
+*Disclaimer:* This guide is independently created for informational purposes. It is not officially endorsed or affiliated with Canon Inc.
 
-**Can I use photo paper to print from a Canon ij ts3522 printer?**
-**Yes.** Use 4x6 inch or 13x18 cm size photo paper.
 
-**How do I get printouts from the Canon ij printer Pixma ts3522?**
-1. Download the software.
-2. Insert A4 paper into the tray.
-3. Use the software/app to give the print command.
-
-** How does scanning work on the ij Canon ts3522 printer?**
-It’s wireless. Place the document on the scanner, give the command from the app or PC, and scanning will start.
-
-** Can I download the Canon ij printer ts3522 software on my computer?**
-**Yes.** Visit `ij.start.canon <https://ij.start.canon>`_ and follow the steps to download and install it.
