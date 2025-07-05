@@ -3,7 +3,7 @@ IJ Canon TS3522 Wireless Printer Setup and Guide
 ##################
 
 .. meta::
-   :msvalidate.01: 
+   :msvalidate.01: EC1CC2EBFA11DD5C3D82B1E823DE7278
 
 .. image:: blank.png
       :width: 350px
