@@ -1,5 +1,5 @@
 ##################
-Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
+IJ Canon TS3522 Wireless Printer Setup and Guide
 ##################
 
 .. meta::
@@ -22,7 +22,7 @@ Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
       :align: center
       :height: 50px
 
-Canon TS3522 Wireless Printer Setup and Guide
+Canon TS3522 Wireless Printer Setup & Guide
 =============================================
 
 If you're looking for a reliable all-in-one printer for home or small office use, the **Canon TS3522** is a solid choice. It offers wireless connectivity, simple setup, and quality printing — all without breaking the bank.
