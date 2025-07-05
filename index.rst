@@ -11,7 +11,7 @@ IJ Canon TS3522 Wireless Printer Setup and Guide
       :height: 50px
 
 .. image:: Enter_Product_Key.png
-      :width: 350px
+      :width: 250px
       :align: center
       :height: 60px
       :alt: ij.start.canon
